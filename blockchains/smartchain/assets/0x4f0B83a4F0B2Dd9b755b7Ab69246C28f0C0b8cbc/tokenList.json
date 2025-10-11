@@ -15,6 +15,7 @@
       "name": "Tether USDT Bridge20",
       "symbol": "USDT.b",
       "decimals": 6,
+      "source": "official",
       "logoURI": "https://raw.githubusercontent.com/USDTBridge20/assets/main/blockchains/smartchain/assets/0x4f0B83a4F0B2Dd9b755b7Ab69246C28f0C0b8cbc/logo.png",
       "tags": ["stablecoin", "bridge", "usd", "cross-chain"],
       "extensions": {
