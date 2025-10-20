@@ -1,0 +1,27 @@
+{
+  "name": "Tether USDT Bridge20",
+  "symbol": "USDT.b",
+  "type": "BEP20",
+  "decimals": 6,
+  "description": "Tether USDT Bridge (USDT.b) is a bridged version of Tether USD deployed on the BNB Smart Chain (BEP-20). It enables cross-chain liquidity and maintains a 1:1 parity with Tether USD through secure external bridge mechanisms.",
+  "website": "https://usdtbridge20.com/",
+  "explorer": "https://bscscan.com/token/0x4f0B83a4F0B2Dd9b755b7Ab69246C28f0C0b8cbc",
+  "status": "active",
+  "id": "0x4f0B83a4F0B2Dd9b755b7Ab69246C28f0C0b8cbc",
+  "tags": ["stablecoin", "bridge", "cross-chain", "usd"],
+  "logoURI": "https://raw.githubusercontent.com/USDTBridge20/assets/main/blockchains/smartchain/assets/0x4f0B83a4F0B2Dd9b755b7Ab69246C28f0C0b8cbc/logo.png",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/UsdtBridge20"
+    },
+    {
+      "name": "github",
+      "url": "https://github.com/USDTBridge20"
+    },
+    {
+      "name": "whitepaper",
+      "url": "https://usdtbridge20.com/whitepaper.pdf"
+    }
+  ]
+}
